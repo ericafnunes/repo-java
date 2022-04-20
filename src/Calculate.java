@@ -14,7 +14,7 @@ public class Calculate {
         } else if (args[0].equals("dividir")){
             div(x, y);
         } else{
-            System.out.println("-ERRO- : Insira uma das 4 operações básicas da matemática.");
+            System.out.println("-ERRO- : Insira uma das 4 operações básicas da matematica.");
         }
     }
 
